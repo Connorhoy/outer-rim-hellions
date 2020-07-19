@@ -447,6 +447,7 @@ section {
 .clients {
   padding: 15px 0;
   text-align: center;
+  letter-spacing: 2px;
 }
 
 .clients img {
